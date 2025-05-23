@@ -1,0 +1,8 @@
+# Visual Studio 临时文件
+.vs/
+# 附加库
+vendor/eigen/
+vendor/opencv/
+# tmp file
+bin/
+bin-int/
